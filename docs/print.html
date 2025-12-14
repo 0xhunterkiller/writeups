@@ -408,11 +408,11 @@ del C-00000291*.sys
 <li>Ampere: More Faster, More Memory  (more tensor and raytracing cores)</li>
 </ul>
 <h2 id="cuda-software-layers"><a class="header" href="#cuda-software-layers">CUDA Software Layers</a></h2>
-<p><img src="001.png" alt="CUDA Software Layers"></p>
+<p><img src="media/post_3/001.png" alt="CUDA Software Layers"></p>
 <ul>
 <li>The CUDA application can communicate with either the runtime or the driver APIs. The decision is upto the developer and it is a deciding factor in showing what the underlying software will look like and how it will be compiled.</li>
 </ul>
-<p><img src="002.png" alt="Compilation of CUDA Software Layers 2"></p>
+<p><img src="media/post_3/002.png" alt="Compilation of CUDA Software Layers 2"></p>
 <h4 id="higher-level-access-pattern-runtime-api"><a class="header" href="#higher-level-access-pattern-runtime-api">Higher level Access Pattern (Runtime API)</a></h4>
 <p>The CUDA Runtime API was developed by NVIDIA as a simpler option that the Driver API. It is an abstraction of the Driver API. In the Runtime API, all kernels that were compiled into any GPU code are available to host code. The code that utilizes this API is written in C++.</p>
 <ul>
