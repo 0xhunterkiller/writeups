@@ -80,11 +80,11 @@
 
 ## CUDA Software Layers
 
-![CUDA Software Layers](./001.png)
+![CUDA Software Layers](./media/post_3/001.png)
 
 * The CUDA application can communicate with either the runtime or the driver APIs. The decision is upto the developer and it is a deciding factor in showing what the underlying software will look like and how it will be compiled.
 
-![Compilation of CUDA Software Layers 2](./002.png)
+![Compilation of CUDA Software Layers 2](./media/post_3/002.png)
 
 #### Higher level Access Pattern (Runtime API)
 
