@@ -4,3 +4,4 @@
 - [SSTF 2021 — meLorean Challenge](./0001_sstf-2021-melorean-challenge.md)
 - [Crowdstrike Falcon Update](./0002_crowdstrike-falcon-update.md)
 - [Introduction to Concurrent Programming with GPUs](./0003_intro-to-concurrent-programming-with-gpus.md)
+- [AI Infra Engineering Framework](./0005_ai-infra-engineering-framework.md)
